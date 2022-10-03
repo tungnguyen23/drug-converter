@@ -6,7 +6,8 @@ This is a python script that converts the study drug name (eg, SB206) to molecul
 
 1. The script will search up the input
 
-![](RackMultipart20221003-1-efzmba_html_8f25704c3642c6fa.png)
+![alt text](http://url/to/img.png)
+![alt text]([https://github.com//[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/tungnguyen23/drug-converter/blob/main/Picture%20for%20documentation/Pic1.png)
 
 1. Then scrape the molecule name from the search result page.
 
