@@ -52,7 +52,7 @@ scrape ([“x1”,
 
 2. Click on the run button located on the top right corner.
 
-![Picture5](https://user-images.githubusercontent.com/112147745/193520423-673cefa0-c1e7-4feb-b752-6ee162938b98.png)
+![Picture9](https://user-images.githubusercontent.com/112147745/193521534-bfe193df-556e-44e1-92f1-c24ff96a1e1d.png)
 
 3. The output will be shown in the terminal
 
