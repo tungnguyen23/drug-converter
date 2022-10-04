@@ -1,6 +1,6 @@
 **Background:**
 
-This is a python script that converts the study drug name (eg, SB206) to molecular name (eg, Berdazimer sodium) leverage Adisinsight online query and the Beautiful Soup library. The input list can be in csv format and the output will be returned in csv format as well. If the searched name is not on the Adisinsight database, it output will be returned as the original study drug name.
+This is a python script that converts the study drug names (eg, SB206) to molecule names (eg, Berdazimer sodium) leveraging AdisInsight online query and the Beautiful Soup library. The input list can be in csv format and the output will be returned in csv format as well. If the searched study drug name is not on the AdisInsight database, the output will be returned as the original study drug name.
 
 **How it works:**
 
